@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Test"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "inc",
+                "inc/test2"
+            ],
+            "browse": {
+                "path": [
+                    "inc",
+                    "inc/test2"
+                ]
+            },
+            "defines": [
+                "DUMMY"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cppStandard": "c++14",
+            "compilerPath": "gcc",
+            "compilerArgs": []
+        }
+    ],
+    "version": 4
+}
