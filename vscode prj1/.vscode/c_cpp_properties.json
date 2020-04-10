@@ -6,13 +6,13 @@
         {
             "name": "Win32",
             "includePath": [
-                "inc",
-                "inc/test1"
+                "${workspaceFolder}/inc",
+                "${workspaceFolder}/inc/test1"
             ],
             "browse": {
                 "path": [
-                    "inc",
-                    "inc/test1"
+                    "${workspaceFolder}/inc",
+                    "${workspaceFolder}/inc/test1"
                 ]
             },
             "defines": [
