@@ -9,5 +9,5 @@ target_include_directories(test_app PRIVATE
 )
 
 target_compile_options(test_app PRIVATE
-    -Wall -Wextra -Wpedantic -Werror
+    -Wall -Wextra -Wpedantic
 )
